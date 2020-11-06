@@ -5,8 +5,8 @@
 </head>
 
 <body>
-  <a href = "layout.index"> Work1 </a>
-  <a href = "card.index"> Work2 </a>
+  <a href = "layout.html"> Work1 </a>
+  <a href = "card.html"> Work2 </a>
 </body>
 
 </html>
